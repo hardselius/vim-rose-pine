@@ -60,7 +60,7 @@ PmenuSel               text          overlay
 PmenuThumb             none          highlight_med
 Question               gold          none
 Search                 none          highlight_med
-SpecialKey             foam          none
+SpecialKey             highlight_med none
 SpellBad               none          none          undercurl s=subtle
 SpellCap               none          none          undercurl s=subtle
 SpellLocal             none          none          undercurl s=subtle
